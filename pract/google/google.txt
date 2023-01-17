@@ -1,0 +1,8 @@
+для фильтра поиска гугл:
+https://www.exploit-db.com/google-hacking-database
+
+для информации о доменах:
+https://www.whois.com/
+
+поисковая система, предназначенная для нахождения подключенных к интернету устройств по IPv4-адресам:
+https://www.shodan.io/

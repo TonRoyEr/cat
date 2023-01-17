@@ -1,0 +1,3 @@
+cwe-787 - https://cwe.mitre.org/data/definitions/787.html
+cwe-242 - https://cwe.mitre.org/data/definitions/242.html
+cwe-119 - https://cwe.mitre.org/data/definitions/119.html
